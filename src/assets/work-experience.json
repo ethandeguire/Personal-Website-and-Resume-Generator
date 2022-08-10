@@ -1,56 +1,37 @@
 {
   "work": [
     {
-      "date": "September 2018 - Present",
-      "title": "Software Developer at Lava Lamp Lab",
-      "description": "Conduct Work in developing cross-platform mobile applications (iOS and Android) as well as Backend applications. \n\nWe mainly develop using Agile over two-week sprints.",
+      "date": "Summers of 2021 and 2022",
+      "title": "Software Engineering Intern (two summers)",
+      "description": "Returned to Rocket to lead a small team of interns in developing comprehensive internal tooling to allow greater insight into company data for testers, developers, and legal auditors. Built a modern Angular/TypeScript frontend leveraging a C# backend to retrieve data from multiple APIs, processing and displaying data for the user quickly and comprehensively. This tool has and will save its users hundreds of person-hours of developing, testing, and auditing.",
       "stack": [
-        "Ionic",
         "Angular",
-        "Node.js",
-        "npm",
-        "Git",
-        "Bitbucket",
-        "GitHub",
-        "Agile",
-        "Laravel",
-        "Express.js",
-        "Azure",
-        "Cosmos DB",
-        "JavaScript",
-        "TypeScript"
+        "DotNet C#",
+        "Kanban",
+        "AWS",
+        "TypeScript",
+        "CircleCI"        
       ]
     },
     {
-      "date": "September 2017 - September 2018",
-      "title": "Technical Intern at WC Colab for eInclusion and Social Innovation | Core Team",
-      "description": "I worked in a team of students focussing on projects centred around applications development, robotics, machine learning and designing courses to teach other students about these applications of technology.",
+      "date": "Winter 2022",
+      "title": "Machine Learning - Directed Study under Professor Raj Rao Nadakuditi",
+      "description": "Studied machine learning and its applications in digital signal processing. I Created models to identify the genre of a sample of music, between 10 genres, achieveing high accuracy rates. I experimented with modifying the fourier transform algorithm to eliminate the phase or magnitude of the output signal, and was able to identify the samples with limited information.",
       "stack": [
         "Python",
-        "Linux",
-        "Angular",
-        "Ionic"
+        "Julia",
+        "Fourier Transform",
+        "DSP Libraries"
       ]
     },
     {
-      "date": "January 2017 - present",
-      "title": "Freelance Software Developer",
-      "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in Cape Town and Around South Africa.",
+      "date": "Summer 2019",
+      "title": "Software Engineering Intern",
+      "description": "I started my first internship at Savance in high school, learning about their product EIOBoard and answering support tickets. I then developed an integration for EIOBoard with a client's access control system. Savance is a small company with a small team of engineers, and I learned a lot about their product and how they work.",
       "stack": [
-        "Angular",
-        "PHP",
-        "Python",
-        "RESTful API Design",
-        "MongoDB",
-        "Firebase",
-        "MySQL",
-        "Node.js",
-        "npm",
-        "Ionic",
-        "Database Design",
-        "Amazon EC2",
-        "Postman",
-        "Linux"
+        "DotNet C#",
+        "Access Control Systems",
+        "Integration"
       ]
     }
 

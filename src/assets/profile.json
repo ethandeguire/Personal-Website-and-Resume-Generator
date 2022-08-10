@@ -1,30 +1,30 @@
 {
-  "email": "rnldhv91@gmail.com",
-  "location": "Durbanville, Cape Town",
-  "name": "Ronald Hove",
+  "email": "ethandeguire@gmail.com",
+  "location": "Ann Arbor, Michigan",
+  "name": "Ethan DeGuire",
   "phone": "",
-  "avatar": "assets/media/images/pro_offerzen.jpg",
+  "avatar": "assets/media/images/pfp.png",
   "education": [
     {
-      "title": "Bachelor of Science (BSc) in Computer Science and Information Systems",
-      "meta": "University of the Western Cape,  Jan 2014 – Nov 2018"
+      "title": "Bachelor of Science in Computer Science",
+      "meta": "University of Michigan,  Aug 2020 – May 2024"
     }
   ],
-  "about": "I consider myself a value adder. I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths. I love computer science and information technology.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time technology hobbyist.",
+  "about": "Some stuff about me!",
   "socials": [
     {
-      "name": "rnldhv91@gmail.com",
-      "link": "mailto:rnldhv91@gmail.com",
+      "name": "ethandeguire@gmail.com",
+      "link": "mailto:ethandeguire@gmail.com",
       "icon": "fa fa-envelope"
     },
     {
       "name": "Github",
-      "link": "https://github.com/ronald-hove",
+      "link": "https://github.com/ethandeguire",
       "icon": "fab fa-github"
     },
     {
       "name": "LinkedIn",
-      "link": "https://www.linkedin.com/in/ronald-hove/",
+      "link": "https://www.linkedin.com/in/ethan-deguire/",
       "icon": "fab fa-linkedin"
     }
   ]

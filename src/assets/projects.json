@@ -4,6 +4,11 @@
       "preview": "assets/media/projects/rm-logo.jpeg",
       "name": "TridDataAuditor",
       "description": "At Rocket Mortgage, I led design and development of TridDataAuditor, an internal tool used by engineers, analysts, and legal auditors which makes data search and internal insights 300% faster. We built the application in Angular and C#, and deployed it to AWS using Kubernetes."
+    },
+    {
+      "preview": "assets/media/projects/old-projects.png",
+      "name": "My High School Website",
+      "description": "I built this website to show off my coding projects in high school, they show how I learned to code and how much I have improved over the years.\n\nURL is https://ethandeguire.netlify.app/"
     }
   ]
 }

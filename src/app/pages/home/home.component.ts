@@ -51,18 +51,24 @@ export class HomeComponent implements OnInit {
   }
 
   async downloadResume(): Promise<void> {
-    const pdf: any =  await this.dataApi.getBase64CV();
-    const byteCharacters = atob(pdf.resume);
-    const byteNumbers = new Array(byteCharacters.length);
-    for (let i = 0; i < byteCharacters.length; i++) {
-      byteNumbers[i] = byteCharacters.charCodeAt(i);
-    }
-    const byteArray = new Uint8Array(byteNumbers);
-    const file = new Blob([byteArray], { type: 'application/pdf;base64' });
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(file);
-    a.setAttribute('download', `${this.profile.name} CV.pdf`.replace(/\s/g, ''));
-    a.click();
+    await this.redirectToResume();
+
+    // const pdf: any =  await this.dataApi.getBase64CV();
+    // const byteCharacters = atob(pdf.resume);
+    // const byteNumbers = new Array(byteCharacters.length);
+    // for (let i = 0; i < byteCharacters.length; i++) {
+    //   byteNumbers[i] = byteCharacters.charCodeAt(i);
+    // }
+    // const byteArray = new Uint8Array(byteNumbers);
+    // const file = new Blob([byteArray], { type: 'application/pdf;base64' });
+    // const a = document.createElement('a');
+    // a.href = URL.createObjectURL(file);
+    // a.setAttribute('download', `${this.profile.name} CV.pdf`.replace(/\s/g, ''));
+    // a.click();
+  }
+
+  async redirectToResume(): Promise<void> {
+    window.open('https://docs.google.com/document/d/e/2PACX-1vRnkPTtfmYbEgJflA4IeHZBjn9yrNm9Po5gmhkIC_wyBePXRYHNV6zDWETLXC52HeMQt-FPl90YyMly/pub');
   }
 
 }

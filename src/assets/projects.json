@@ -9,6 +9,11 @@
       "preview": "assets/media/projects/old-projects.png",
       "name": "My High School Website",
       "description": "I built this website to show off my coding projects in high school, they show how I learned to code and how much I have improved over the years.\n\nURL is https://ethandeguire.netlify.app/"
+    },
+    {
+      "preview":"assets/media/projects/old-projects.png",
+      "name": "Testing does this work",
+      "description": "testing does this work"
     }
   ]
 }

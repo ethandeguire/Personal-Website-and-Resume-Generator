@@ -1,6 +1,6 @@
 {
   "email": "ethandeguire@gmail.com",
-  "location": "Ann Arbor, Michigan",
+  "location": "Philadelphia, Pennsylvania",
   "name": "Ethan DeGuire",
   "phone": "",
   "avatar": "assets/media/images/pfp.png",
@@ -8,9 +8,13 @@
     {
       "title": "Bachelor of Science in Computer Science",
       "meta": "University of Michigan,  Aug 2020 – May 2024"
+    },
+    {
+      "title": "Certified Solutions Architect - Associate",
+      "meta": "AWS, 2025"
     }
   ],
-  "about": "Some stuff about me!",
+  "about": "Full Stack Software Engineer with a proven track record of delivering impactful solutions at leading financial institutions and mom-and-pop shops. Specialized in building scalable web applications and cloud-native solutions. Proven ability to drive technical innovation across the stack, working closely with clients to deliver solutions that exceed expectations.",
   "socials": [
     {
       "name": "ethandeguire@gmail.com",

@@ -68,7 +68,7 @@ export class HomeComponent implements OnInit {
   }
 
   async redirectToResume(): Promise<void> {
-    window.open('https://docs.google.com/document/d/e/2PACX-1vRnkPTtfmYbEgJflA4IeHZBjn9yrNm9Po5gmhkIC_wyBePXRYHNV6zDWETLXC52HeMQt-FPl90YyMly/pub');
+    window.open('https://drive.google.com/file/d/1njlnH42d6l5iuspbT5DnlkzC7E4LLsnf/view?usp=sharing');
   }
 
 }

@@ -1,16 +1,41 @@
 {
   "work": [
     {
-      "date": "Summers of 2021 and 2022",
-      "title": "Software Engineering Intern (two summers)",
-      "description": "Returned to Rocket to lead a small team of interns in developing comprehensive internal tooling to allow greater insight into company data for testers, developers, and legal auditors. Built a modern Angular/TypeScript frontend leveraging a C# backend to retrieve data from multiple APIs, processing and displaying data for the user quickly and comprehensively. This tool has and will save its users hundreds of person-hours of developing, testing, and auditing.",
+      "date": "2024 - Present",
+      "title": "Software Engineer",
+      "company": "Capital One",
+      "location": "Philadelphia, PA",
+      "description": "Driving data protection and engineering initiatives focused on securing sensitive banking data across enterprise systems. Developing real-time streaming pipelines and batch processing solutions using AWS services like Lambda, SQS and Batch. Building reliable data products and collaborating cross-functionally to implement security best practices and compliance requirements.",
       "stack": [
-        "Angular",
-        "DotNet C#",
-        "Kanban",
         "AWS",
-        "TypeScript",
-        "CircleCI"        
+        "Apache Kafka",
+        "Kinesis",
+        "Data Engineering",
+        "Cloud Architecture"
+      ]
+    },
+    {
+      "date": "2024 - Present",
+      "title": "Technical Partner & Lead Engineer",
+      "company": "WeLakeYou",
+      "description": "Partnered with a family-run business selling lake-themed apparel and merchandise to transform their manual Shopify operations into a fully automated system. Architected and implemented end-to-end automation managing 10,000+ products across hundreds of lake-specific product lines, allowing the owners to focus on growing their business rather than managing individual listings. Developed critical and robust API integrations with Printful and Shopify to handle product creation and fulfillment. Created custom image generation pipelines that automatically produce product mockups for new designs across hundreds of lakes, enabling rapid scaling of their product catalog while maintaining consistent quality.",
+      "stack": [
+        "Shopify API",
+        "Printful API",
+        "Automation",
+        "Image Generation",
+        "API Integration"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Freelance Developer",
+      "company": "Video Editing Tool",
+      "description": "Architected and developed a serverless web-based video editing platform that automated content creation workflows. Built features including batch video generation, dynamic text overlay capabilities, automated audio replacement, custom cropping tools, and templated editing presets. The solution reduced content production time by 90% through streamlined automation while maintaining creative control.",
+      "stack": [
+        "Alpine.js",
+        "AWS Lambda, S3, SQS, API Gateway",
+        "FFmpeg"
       ]
     },
     {
@@ -33,7 +58,19 @@
         "Access Control Systems",
         "Integration"
       ]
+    },
+    {
+      "date": "Summers of 2021 and 2022",
+      "title": "Software Engineering Intern (two summers)",
+      "description": "Returned to Rocket to lead a small team of interns in developing comprehensive internal tooling to allow greater insight into company data for testers, developers, and legal auditors. Built a modern Angular/TypeScript frontend leveraging a C# backend to retrieve data from multiple APIs, processing and displaying data for the user quickly and comprehensively. This tool has and will save its users hundreds of person-hours of developing, testing, and auditing.",
+      "stack": [
+        "Angular",
+        "DotNet C#",
+        "Kanban",
+        "AWS",
+        "TypeScript",
+        "CircleCI"        
+      ]
     }
-
   ]
 }

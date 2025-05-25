@@ -1,0 +1,74 @@
+header:
+  name: "Ethan DeGuire"
+  contact:
+    phone: "(248) 660-6101"
+    email: "ethandeguire@gmail.com"
+    linkedin: "https://www.linkedin.com/in/ethan-deguire/"
+    website: "https://ethandeguire.info"
+summary: >
+  Full Stack Software Engineer with a proven track record of delivering impactful solutions at leading financial institutions and mom-and-pop shops.
+  Specialized in building scalable web applications and cloud-native solutions. Proven ability to drive technical innovation across the stack, working closely with clients to deliver solutions that exceed expectations.
+education:
+  - university: "University of Michigan"
+    degree: "Bachelor of Science in Computer Science"
+    date: "Spring 2024"
+  - university: "AWS"
+    degree: "Certified Solutions Architect - Associate"
+    date: "2025"
+experience:
+  - title: "Software Engineer"
+    company: "Capital One"
+    duration: "2024 - Present"
+    location: "Philadelphia, PA"
+    responsibilities:
+      - "Engineered AWS Batch-based data protection tools to remediate sensitive data across enterprise databases through encryption, masking, and deletion"
+      - "Developed real-time data streaming pipelines using AWS Lambda and SQS to ensure consistency and availability of critical banking datasets"
+      - "Built and maintained data products providing reliable, consistent access to enterprise-wide banking data"
+      - "Collaborated with teams across the organization to implement data security best practices and compliance requirements"
+  - title: "Technical Partner & Lead Engineer"
+    company: "WeLakeYou"
+    duration: "2024 - Present"
+    responsibilities:
+      - "Architected and implemented an end-to-end automation system managing 10,000+ Shopify products across hundreds of lake-specific product lines"
+      - "Developed critical and robust API integrations with Printful and Shopify"
+      - "Created custom image generation pipelines, enabling automated mockup generation and product creation"
+  - title: "Internships"
+    company: "Capital One, Rocket Mortgage, University of Michigan, Savance"
+    duration: "2019-2023"
+    responsibilities:
+      - "Capital One (Summer 2023, McLean VA) - Built Angular dashboards for mobile app development tracking and implemented platform improvements"
+      - "Rocket Mortgage (Summer 2022 & 2021, Detroit MI) - Developed data auditing tool improving efficiency by 300% and built Chrome extension used by 100+ interns"
+      - "University of Michigan Research (2022, Ann Arbor MI) - Created ML models for music genre classification achieving 95%+ accuracy using Julia and Python"
+      - "Savance (Summer 2019, Commerce Twp MI) - Engineered business partner API integration securing $5,000+ contract and improved employee tracking systems"
+projects:
+  - name: "Freelance - Video Editing Tool for a Record Label"
+    description: >
+      Created a serverless web-based video editing tool eliminating 90% of the effort required to create custom content for social media.
+  - name: "High School Hack Club Chapter"
+    description: >
+      Founded first CS club, taught 45 middle + high school students to code. Organized hackathon with 100+ signups and corporate sponsorships.
+skills:
+  General:
+    - "Python"
+    - "REST/GraphQL API Design & Integration"
+    - "Data Engineering"
+    - "Cloud Architecture"
+  AWS:
+    - "Lambda, ECS, Step Functions, S3, SNS, SQS, DynamoDB, Batch"
+  Database Systems:
+    - "DynamoDB"
+    - "Snowflake"
+    - "PostgreSQL"
+    - "Databricks"
+  Web Technologies:
+    - "HTML/CSS"
+    - "Alpine.JS"
+    - "TailwindCSS"
+    - "RESTful APIs"
+  E-commerce:
+    - "Shopify API"
+    - "Printful API"
+  Soft Skills:
+    - "Team Collaboration"
+    - "Problem-solving"
+    - "Technical Documentation"

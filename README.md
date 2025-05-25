@@ -1,8 +1,7 @@
-# Open Source Portfolio Site Template
+# Angular ethandeguire.info, deployed on netlify
 
-This is a free portfolio template I wrote in angular for my own portfolio hosted @
+# /resume-builder/, build locally
 
-https://ronald-hove.github.io/
 
 # Index
 

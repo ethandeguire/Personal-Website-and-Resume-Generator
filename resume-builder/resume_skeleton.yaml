@@ -6,8 +6,8 @@ header:
     linkedin: "https://www.linkedin.com/in/ethan-deguire/"
     website: "https://ethandeguire.info"
 summary: >
-  Full Stack Software Engineer with a proven track record of delivering impactful solutions at leading financial institutions and mom-and-pop shops.
-  Specialized in building scalable web applications and cloud-native solutions. Proven ability to drive technical innovation across the stack, working closely with clients to deliver solutions that exceed expectations.
+  Full Stack Software Engineer with expertise in delivering impactful solutions at leading financial institutions and family-owned businesses.
+  Specialized in building scalable web applications and cloud-native solutions using modern technologies. Demonstrated success in driving technical innovation and exceeding client expectations.
 education:
   - university: "University of Michigan"
     degree: "Bachelor of Science in Computer Science"
@@ -21,32 +21,31 @@ experience:
     duration: "2024 - Present"
     location: "Philadelphia, PA"
     responsibilities:
-      - "Engineered AWS Batch-based data protection tools to remediate sensitive data across enterprise databases through encryption, masking, and deletion"
-      - "Developed real-time data streaming pipelines using AWS Lambda and SQS to ensure consistency and availability of critical banking datasets"
-      - "Built and maintained data products providing reliable, consistent access to enterprise-wide banking data"
-      - "Collaborated with teams across the organization to implement data security best practices and compliance requirements"
+      - "Engineered AWS Batch-based data protection tools making sensitive data remediation trivial across enterprise databases through automated encryption, masking, and deletion"
+      - "Developed real-time processing pipelines using AWS Lambda, handling 1M+ events daily to ensure consistency and availability of critical banking datasets"
+      - "Led sql-parsing and data lineage extraction for an internal Snowflake analytics tool"
   - title: "Technical Partner & Lead Engineer"
     company: "WeLakeYou"
     duration: "2024 - Present"
     responsibilities:
-      - "Architected and implemented an end-to-end automation system managing 10,000+ Shopify products across hundreds of lake-specific product lines"
-      - "Developed critical and robust API integrations with Printful and Shopify"
-      - "Created custom image generation pipelines, enabling automated mockup generation and product creation"
+      - "Architected and implemented an end-to-end automation system integrating custom image templating with Shopify and Printful APIs"
+      - "Programatically creating and managing 10,000+ Shopify products across hundreds of lake-specific product lines."
+      - "Created custom image generation pipelines in using PIL for Python, enabling automated mockup generation and reducing product creation time from days to minutes"
   - title: "Internships"
     company: "Capital One, Rocket Mortgage, University of Michigan, Savance"
     duration: "2019-2023"
     responsibilities:
-      - "Capital One (Summer 2023, McLean VA) - Built Angular dashboards for mobile app development tracking and implemented platform improvements"
-      - "Rocket Mortgage (Summer 2022 & 2021, Detroit MI) - Developed data auditing tool improving efficiency by 300% and built Chrome extension used by 100+ interns"
-      - "University of Michigan Research (2022, Ann Arbor MI) - Created ML models for music genre classification achieving 95%+ accuracy using Julia and Python"
-      - "Savance (Summer 2019, Commerce Twp MI) - Engineered business partner API integration securing $5,000+ contract and improved employee tracking systems"
+      - "Capital One (Summer 2023, McLean VA) - Built Angular dashboards for mobile app devops tracking and platform improvements"
+      - "Rocket Mortgage (Summer 2022 & 2021, Detroit MI) - Developed data auditing tool using Angular and .NET, improving lookup efficiency by 300%"
+      - "University of Michigan Research (2022, Ann Arbor MI) - Trained convolutional neural networks for music genre classification using Julia, achieving 95%+ accuracy on a dataset of 50,000+ songs"
+      - "Savance (Summer 2019, Commerce Twp MI) - Engineered business partner API integration securing $5,000+ contract"
 projects:
   - name: "Freelance - Video Editing Tool for a Record Label"
     description: >
       Created a serverless web-based video editing tool eliminating 90% of the effort required to create custom content for social media.
   - name: "High School Hack Club Chapter"
     description: >
-      Founded first CS club, taught 45 middle + high school students to code. Organized hackathon with 100+ signups and corporate sponsorships.
+      Founded first CS club, taught 45 middle + high school students to code using p5.js. Organized hackathon with 100+ signups and secured $4,000 in corporate sponsorships.
 skills:
   General:
     - "Python"
@@ -66,9 +65,9 @@ skills:
     - "TailwindCSS"
     - "RESTful APIs"
   E-commerce:
-    - "Shopify API"
+    - "Shopify Admin API"
     - "Printful API"
   Soft Skills:
-    - "Team Collaboration"
+    - "Collaboration"
     - "Problem-solving"
     - "Technical Documentation"
